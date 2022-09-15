@@ -1,0 +1,438 @@
+{"address":"1|55811|Baleharjo|34.03.01.2007|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"2|55851|Duwet|34.03.01.2011|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"3|55851|Gari|34.03.01.2004|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"4|55851|Karangrejek (Karang Rejek)|34.03.01.2014|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"5|55851|Karangtengah (Karang Tengah)|34.03.01.2005|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"6|55813|Kepek|34.03.01.2002|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"7|55851|Mulo|34.03.01.2012|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"8|55851|Piyaman|34.03.01.2003|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"9|55851|Pulutan|34.03.01.2009|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"10|55851|Selang|34.03.01.2006|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"11|55851|Siraman|34.03.01.2008|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"12|55851|Wareng|34.03.01.2010|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"13|55851|Wonosari|34.03.01.2001|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"14|55851|Wunung|34.03.01.2013|Wonosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"15|55253|Pakuncen|34.71.07.1001|Wirobrajan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"16|55251|Patangpuluhan|34.71.07.1003|Wirobrajan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"17|55252|Wirobrajan|34.71.07.1002|Wirobrajan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"18|55651|Bendungan|34.01.02.2005|Wates|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"19|55651|Giripeni (Giri Peni)|34.01.02.2007|Wates|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"20|55651|Karangwuni (Karang Wuni)|34.01.02.2001|Wates|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"21|55651|Kulwaru|34.01.02.2003|Wates|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"22|55651|Ngestiharjo|34.01.02.2004|Wates|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"23|55651|Sogan|34.01.02.2002|Wates|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"24|55651|Triharjo|34.01.02.2006|Wates|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"25|55651|Wates|34.01.02.1008|Wates|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"26|55163|Giwangan|34.71.13.1007|Umbulharjo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"27|55165|Muja Muju|34.71.13.1002|Umbulharjo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"28|55161|Pandeyan|34.71.13.1005|Umbulharjo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"29|55166|Semaki|34.71.13.1001|Umbulharjo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"30|55162|Sorosutan|34.71.13.1006|Umbulharjo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"31|55167|Tahunan|34.71.13.1003|Umbulharjo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"32|55164|Warungboto|34.71.13.1004|Umbulharjo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"33|55551|Bangunkerto (Bangun Kerto)|34.04.15.2001|Turi|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"34|55551|Donokerto|34.04.15.2002|Turi|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"35|55551|Girikerto (Giri Kerto)|34.04.15.2003|Turi|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"36|55551|Wonokerto (Wono Kerto)|34.04.15.2004|Turi|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"37|55882|Giripanggung|34.03.07.2001|Tepus|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"38|55882|Purwodadi|34.03.07.2005|Tepus|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"39|55882|Sidoharjo|34.03.07.2003|Tepus|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"40|55882|Sumberwungu (Sumber Wungu)|34.03.07.2002|Tepus|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"41|55882|Tepus|34.03.07.2004|Tepus|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"42|55552|Banyurejo (Banyu Rejo)|34.04.14.2001|Tempel|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"43|55552|Lumbungrejo (Lumbung Rejo)|34.04.14.2007|Tempel|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"44|55552|Margorejo (Margo Rejo)|34.04.14.2006|Tempel|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"45|55552|Merdikorejo (Merdiko Rejo)|34.04.14.2008|Tempel|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"46|55552|Mororejo (Moro Rejo)|34.04.14.2005|Tempel|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"47|55552|Pondokrejo (Pondok Rejo)|34.04.14.2004|Tempel|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"48|55552|Sumberrejo (Sumber Rejo)|34.04.14.2003|Tempel|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"49|55552|Tambakrejo (Tambak Rejo)|34.04.14.2002|Tempel|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"50|55654|Demen|34.01.01.2008|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"51|55654|Glagah|34.01.01.2004|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"52|55654|Jangkaran|34.01.01.2001|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"53|55654|Janten|34.01.01.2014|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"54|55654|Kalidengen (Kali Dengen)|34.01.01.2005|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"55|55654|Kaligintung|34.01.01.2010|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"56|55654|Karangwuluh (Karang Wuluh)|34.01.01.2015|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"57|55654|Kebonrejo|34.01.01.2013|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"58|55654|Kedundang|34.01.01.2007|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"59|55654|Kulur|34.01.01.2009|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"60|55654|Palihan|34.01.01.2003|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"61|55654|Plumbon|34.01.01.2006|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"62|55654|Sindutan|34.01.01.2002|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"63|55654|Temon Kulon|34.01.01.2012|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"64|55654|Temon Wetan|34.01.01.2011|Temon|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"65|55243|Bener|34.71.01.1004|Tegalrejo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"66|55241|Karangwaru|34.71.01.1002|Tegalrejo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"67|55242|Kricak|34.71.01.1001|Tegalrejo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"68|55244|Tegalrejo|34.71.01.1003|Tegalrejo|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"69|55881|Banjarejo|34.03.17.2004|Tanjungsari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"70|55881|Hargosari|34.03.17.2001|Tanjungsari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"71|55881|Kemadang|34.03.17.2003|Tanjungsari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"72|55881|Kemiri|34.03.17.2002|Tanjungsari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"73|55881|Ngestirejo|34.03.17.2005|Tanjungsari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"74|55762|Poncosari|34.02.01.2001|Srandakan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"75|55762|Trimurti|34.02.01.2002|Srandakan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"76|55515|Caturharjo (Catur Harjo)|34.04.13.2001|Sleman|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"77|55512|Pandowoharjo (Pandowo Harjo)|34.04.13.2004|Sleman|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"78|55511|Tridadi|34.04.13.2003|Sleman|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"79|55514|Triharjo|34.04.13.2002|Sleman|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"80|55513|Trimulyo (Tri Mulyo)|34.04.13.2005|Sleman|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"81|55561|Margoagung|34.04.05.2005|Seyegan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"82|55561|Margodadi|34.04.05.2002|Seyegan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"83|55561|Margokaton|34.04.05.2003|Seyegan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"84|55561|Margoluwih|34.04.05.2001|Seyegan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"85|55561|Margomulyo|34.04.05.2004|Seyegan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"86|55188|Bangunharjo|34.02.15.2003|Sewon|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"87|55188|Panggungharjo|34.02.15.2004|Sewon|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"88|55185|Pendowoharjo|34.02.15.2001|Sewon|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"89|55186|Timbulharjo|34.02.15.2002|Sewon|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"90|55664|Banguncipto|34.01.06.2008|Sentolo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"91|55664|Demangrejo|34.01.06.2001|Sentolo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"92|55664|Kaliagung|34.01.06.2006|Sentolo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"93|55664|Salamrejo|34.01.06.2004|Sentolo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"94|55664|Sentolo|34.01.06.2007|Sentolo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"95|55664|Srikayangan|34.01.06.2002|Sentolo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"96|55664|Sukoreno|34.01.06.2005|Sentolo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"97|55664|Tuksono|34.01.06.2003|Sentolo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"98|55854|Bendung|34.03.12.2005|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"99|55854|Bulurejo|34.03.12.2003|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"100|55854|Candirejo (Candi Rejo)|34.03.12.2006|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"101|55854|Kalitekuk|34.03.12.2001|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"102|55854|Karangsari (Karang Sari)|34.03.12.2008|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"103|55854|Kemejing|34.03.12.2002|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"104|55854|Pundungsari (Pundung Sari)|34.03.12.2009|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"105|55854|Rejosari|34.03.12.2007|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"106|55854|Semin|34.03.12.2010|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"107|55854|Sumberejo (Sumberrejo)|34.03.12.2004|Semin|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"108|55893|Candirejo|34.03.08.2004|Semanu|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"109|55893|Dadapayu|34.03.08.2005|Semanu|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"110|55893|Ngeposari|34.03.08.2001|Semanu|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"111|55893|Pacarejo|34.03.08.2003|Semanu|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"112|55893|Semanu|34.03.08.2002|Semanu|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"113|55752|Argodadi|34.02.17.2001|Sedayu|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"114|55752|Argomulyo|34.02.17.2004|Sedayu|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"115|55752|Argorejo|34.02.17.2002|Sedayu|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"116|55752|Argosari|34.02.17.2003|Sedayu|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"117|55870|Jetis|34.03.15.2003|Saptosari (Sapto Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"118|55870|Kanigoro|34.03.15.2005|Saptosari (Sapto Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"119|55870|Kepek|34.03.15.2004|Saptosari (Sapto Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"120|55870|Krambilsawit (Krambil Sawit)|34.03.15.2001|Saptosari (Sapto Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"121|55870|Monggol|34.03.15.2006|Saptosari (Sapto Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"122|55870|Ngloro (Nglora)|34.03.15.2002|Saptosari (Sapto Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"123|55870|Planjan|34.03.15.2007|Saptosari (Sapto Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"124|55763|Gadingharjo|34.02.02.2002|Sanden|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"125|55763|Gadingsari|34.02.02.2001|Sanden|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"126|55763|Murtigading|34.02.02.2004|Sanden|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"127|55763|Srigading|34.02.02.2003|Sanden|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"128|55673|Banjarsari|34.01.11.2002|Samigaluh|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"129|55673|Gerbosari|34.01.11.2005|Samigaluh|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"130|55673|Kebonharjo (Kebon Harjo)|34.01.11.2001|Samigaluh|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"131|55673|Ngargosari|34.01.11.2006|Samigaluh|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"132|55673|Pagerharjo|34.01.11.2007|Samigaluh|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"133|55673|Purwoharjo|34.01.11.2003|Samigaluh|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"134|55673|Sidoharjo|34.01.11.2004|Samigaluh|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"135|55884|Bohol|34.03.11.2001|Rongkop|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"136|55884|Botodayakan (Botodayaan)|34.03.11.2003|Rongkop|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"137|55884|Karangwuni|34.03.11.2008|Rongkop|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"138|55884|Melikan|34.03.11.2007|Rongkop|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"139|55884|Petir|34.03.11.2004|Rongkop|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"140|55884|Pringombo|34.03.11.2002|Rongkop|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"141|55884|Pucanganom|34.03.11.2005|Rongkop|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"142|55884|Semugih|34.03.11.2006|Rongkop|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"143|55873|Giriasih|34.03.18.2004|Purwosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"144|55873|Giricahyo|34.03.18.2002|Purwosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"145|55873|Girijati|34.03.18.2003|Purwosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"146|55873|Giripurwo|34.03.18.2001|Purwosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"147|55873|Giritirto|34.03.18.2005|Purwosari|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"148|55771|Panjangrejo|34.02.04.2002|Pundong|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"149|55771|Seloharjo|34.02.04.2001|Pundong|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"150|55771|Srihardono|34.02.04.2003|Pundong|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"151|55572|Bokoharjo (Boko Harjo)|34.04.09.2006|Prambanan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"152|55572|Gayamharjo (Gayam Harjo)|34.04.09.2003|Prambanan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"153|55572|Madurejo (Madu Rejo)|34.04.09.2005|Prambanan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"154|55572|Sambirejo (Sambi Rejo)|34.04.09.2004|Prambanan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"155|55572|Sumberharjo (Sumber Harjo)|34.04.09.2001|Prambanan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"156|55572|Wukirharjo (Wukir Harjo)|34.04.09.2002|Prambanan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"157|55892|Bedoyo|34.03.10.2009|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"158|55892|Genjahan|34.03.10.2006|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"159|55892|Gombang|34.03.10.2011|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"160|55892|Karangasem (Karang Asem)|34.03.10.2008|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"161|55892|Kenteng|34.03.10.2004|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"162|55892|Ponjong|34.03.10.2007|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"163|55892|Sawahan|34.03.10.2002|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"164|55892|Sidorejo|34.03.10.2010|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"165|55892|Sumbergiri (Sumber Giri)|34.03.10.2005|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"166|55892|Tambakromo|34.03.10.2003|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"167|55892|Umbulrejo (Umbul Rejo)|34.03.10.2001|Ponjong|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"168|55791|Bawuran|34.02.13.2004|Pleret|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"169|55791|Pleret|34.02.13.2002|Pleret|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"170|55791|Segoroyoso|34.02.13.2003|Pleret|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"171|55791|Wonokromo|34.02.13.2001|Pleret|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"172|55791|Wonolelo|34.02.13.2005|Pleret|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"173|55861|Banaran|34.03.03.2012|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"174|55861|Bandung|34.03.03.2009|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"175|55861|Banyusoco|34.03.03.2001|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"176|55861|Bleberan|34.03.03.2003|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"177|55861|Dengok|34.03.03.2005|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"178|55861|Gading|34.03.03.2011|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"179|55861|Getas|34.03.03.2004|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"180|55861|Logandeng|34.03.03.2010|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"181|55861|Ngawu|34.03.03.2008|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"182|55861|Ngleri|34.03.03.2013|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"183|55861|Ngunut|34.03.03.2006|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"184|55861|Playen|34.03.03.2007|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"185|55861|Plembutan|34.03.03.2002|Playen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"186|55792|Sitimulyo|34.02.14.2001|Piyungan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"187|55792|Srimartani|34.02.14.2003|Piyungan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"188|55792|Srimulyo|34.02.14.2002|Piyungan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"189|55652|Karangsari|34.01.07.2002|Pengasih|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"190|55652|Kedungsari|34.01.07.2003|Pengasih|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"191|55652|Margosari|34.01.07.2004|Pengasih|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"192|55652|Pengasih|34.01.07.2005|Pengasih|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"193|55652|Sendangsari|34.01.07.2006|Pengasih|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"194|55652|Sidomulyo|34.01.07.2007|Pengasih|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"195|55652|Tawangsari|34.01.07.2001|Pengasih|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"196|55862|Beji|34.03.04.2002|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"197|55862|Bunder|34.03.04.2001|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"198|55862|Nglanggeran|34.03.04.2008|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"199|55862|Nglegi|34.03.04.2010|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"200|55862|Ngoro-oro (Ngoro Oro)|34.03.04.2007|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"201|55862|Patuk|34.03.04.2006|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"202|55862|Pengkok|34.03.04.2003|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"203|55862|Putat|34.03.04.2009|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"204|55862|Salam|34.03.04.2005|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"205|55862|Semoyo|34.03.04.2004|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"206|55862|Terbah|34.03.04.2011|Patuk|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"207|55655|Bojong|34.01.03.2006|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"208|55655|Bugel|34.01.03.2003|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"209|55655|Cerme|34.01.03.2010|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"210|55655|Depok|34.01.03.2005|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"211|55655|Garongan|34.01.03.2001|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"212|55655|Gotakan|34.01.03.2008|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"213|55655|Kanoman|34.01.03.2004|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"214|55655|Krembangan|34.01.03.2011|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"215|55655|Panjatan|34.01.03.2009|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"216|55655|Pleret|34.01.03.2002|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"217|55655|Tayuban|34.01.03.2007|Panjatan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"218|55872|Giriharjo|34.03.06.2005|Panggang|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"219|55872|Girikarto|34.03.06.2001|Panggang|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"220|55872|Girimulyo|34.03.06.2003|Panggang|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"221|55872|Girisekar|34.03.06.2002|Panggang|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"222|55872|Girisuko|34.03.06.2006|Panggang|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"223|55872|Giriwungu|34.03.06.2004|Panggang|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"224|55761|Catuharjo (Caturharjo)|34.02.06.2001|Pandak|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"225|55761|Gilangharjo|34.02.06.2003|Pandak|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"226|55761|Triharjo|34.02.06.2002|Pandak|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"227|55761|Wijirejo|34.02.06.2004|Pandak|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"228|55871|Giring|34.03.05.2007|Paliyan|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"229|55871|Grogol|34.03.05.2003|Paliyan|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"230|55871|Karangasem (Karang Asem)|34.03.05.2005|Paliyan|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"231|55871|Karangduwet (Karang Duwet)|34.03.05.2004|Paliyan|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"232|55871|Mulusan|34.03.05.2006|Paliyan|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"233|55871|Pampang|34.03.05.2002|Paliyan|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"234|55871|Sodo|34.03.05.2001|Paliyan|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"235|55111|Gunungketur (Gunung Ketur)|34.71.11.1002|Pakualaman|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"236|55112|Purwokinanti (Purwo Kinanti)|34.71.11.1001|Pakualaman|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"237|55582|Candibinangun (Candi Binangun)|34.04.16.2002|Pakem|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"238|55582|Hargobinangun (Hargo Binangun)|34.04.16.2005|Pakem|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"239|55582|Harjobinangun (Harjo Binangun)|34.04.16.2003|Pakem|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"240|55582|Pakembinangun (Pakem Binangun)|34.04.16.2004|Pakem|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"241|55582|Purwobinangun (Purwo Binangun)|34.04.16.2001|Pakem|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"242|55751|Guwosari|34.02.07.2003|Pajangan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"243|55751|Sendangsari|34.02.07.2002|Pajangan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"244|55751|Triwidadi|34.02.07.2001|Pajangan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"245|55852|Katongan|34.03.02.2007|Nglipar|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"246|55852|Kedungkeris (Kedung Keris)|34.03.02.2005|Nglipar|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"247|55852|Kedungpoh|34.03.02.2003|Nglipar|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"248|55852|Natah|34.03.02.2001|Nglipar|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"249|55852|Nglipar|34.03.02.2006|Nglipar|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"250|55852|Pengkol|34.03.02.2004|Nglipar|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"251|55852|Pilangrejo (Pilang Rejo)|34.03.02.2002|Nglipar|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"252|55584|Bimomartani (Bimo Martani)|34.04.11.2002|Ngemplak|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"253|55584|Sindumartani|34.04.11.2001|Ngemplak|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"254|55584|Umbulmartani|34.04.11.2005|Ngemplak|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"255|55584|Wedomartani|34.04.11.2004|Ngemplak|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"256|55584|Widodomartani (Widodo Martani)|34.04.11.2003|Ngemplak|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"257|55853|Beji|34.03.13.2005|Ngawen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"258|55853|Jurangjero (Jurang Jero)|34.03.13.2003|Ngawen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"259|55853|Kampung|34.03.13.2004|Ngawen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"260|55853|Sambirejo|34.03.13.2002|Ngawen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"261|55853|Tancep|34.03.13.2001|Ngawen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"262|55853|Watusigar (Watu Sigar)|34.03.13.2006|Ngawen|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"263|55261|Ngampilan|34.71.06.1001|Ngampilan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"264|55262|Notoprajan|34.71.06.1002|Ngampilan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"265|55581|Donoharjo|34.04.12.2006|Ngaglik|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"266|55581|Minomartani|34.04.12.2002|Ngaglik|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"267|55581|Sardonoharjo|34.04.12.2005|Ngaglik|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"268|55581|Sariharjo (Sari Harjo)|34.04.12.2001|Ngaglik|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"269|55581|Sinduharjo|34.04.12.2003|Ngaglik|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"270|55581|Sukoharjo (Suko Harjo)|34.04.12.2004|Ngaglik|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"271|55671|Banyuroto|34.01.10.2001|Nanggulan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"272|55671|Donomulyo|34.01.10.2002|Nanggulan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"273|55671|Jatisarono (Jati Sarono)|34.01.10.2005|Nanggulan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"274|55671|Kembang|34.01.10.2006|Nanggulan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"275|55671|Tanjungharjo|34.01.10.2004|Nanggulan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"276|55671|Wijimulyo|34.01.10.2003|Nanggulan|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"277|55563|Sumberagung (Sumber Agung)|34.04.03.2003|Moyudan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"278|55563|Sumberahayu (Sumberrahayu)|34.04.03.2001|Moyudan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"279|55563|Sumberarum|34.04.03.2004|Moyudan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"280|55563|Sumbersari|34.04.03.2002|Moyudan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"281|55285|Sendangadi|34.04.06.2002|Mlati|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"282|55284|Sinduadi|34.04.06.2001|Mlati|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"283|55288|Sumberadi|34.04.06.2005|Mlati|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"284|55287|Tirtoadi|34.04.06.2004|Mlati|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"285|55286|Tlogoadi|34.04.06.2003|Mlati|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"286|55562|Sendangagung|34.04.04.2003|Minggir|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"287|55562|Sendangarum (Sendang Arum)|34.04.04.2001|Minggir|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"288|55562|Sendangmulyo (Sendang Mulyo)|34.04.04.2002|Minggir|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"289|55562|Sendangrejo (Sendang Rejo)|34.04.04.2005|Minggir|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"290|55562|Sendangsari|34.04.04.2004|Minggir|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"291|55153|Brontokusuman|34.71.12.1003|Mergangsan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"292|55152|Keparakan|34.71.12.1001|Mergangsan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"293|55151|Wirogunan|34.71.12.1002|Mergangsan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"294|55142|Gedongkiwo|34.71.08.1001|Mantrijeron|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"295|55143|Mantrijeron|34.71.08.1003|Mantrijeron|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"296|55141|Suryodiningratan|34.71.08.1002|Mantrijeron|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"297|55663|Bumirejo|34.01.05.2002|Lendah|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"298|55663|Gulurejo|34.01.05.2005|Lendah|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"299|55663|Jatirejo|34.01.05.2003|Lendah|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"300|55663|Ngentakrejo|34.01.05.2006|Lendah|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"301|55663|Sidorejo|34.01.05.2004|Lendah|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"302|55663|Wahyuharjo|34.01.05.2001|Lendah|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"303|55772|Donotirto|34.02.03.2003|Kretek|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"304|55772|Parangtritis|34.02.03.2002|Kretek|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"305|55772|Tirtohargo|34.02.03.2005|Kretek|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"306|55772|Tirtomulyo|34.02.03.2001|Kretek|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"307|55772|Tirtosari|34.02.03.2004|Kretek|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"308|55132|Kadipaten|34.71.09.1003|Kraton|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"309|55131|Panembahan|34.71.09.1002|Kraton|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"310|55133|Patehan|34.71.09.1001|Kraton|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"311|55172|Prenggan|34.71.14.1002|Kotagede|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"312|55173|Purbayan|34.71.14.1003|Kotagede|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"313|55171|Rejowinangun|34.71.14.1001|Kotagede|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"314|55653|Hargomulyo|34.01.08.2001|Kokap|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"315|55653|Hargorejo|34.01.08.2002|Kokap|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"316|55653|Hargotirto|34.01.08.2005|Kokap|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"317|55653|Hargowilis|34.01.08.2003|Kokap|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"318|55653|Kalirejo|34.01.08.2004|Kokap|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"319|55184|Bangunjiwo|34.02.16.2001|Kasihan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"320|55182|Ngestiharjo|34.02.16.2004|Kasihan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"321|55183|Tamantirto|34.02.16.2003|Kasihan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"322|55181|Tirtonirmolo|34.02.16.2002|Kasihan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"323|55891|Bejiharjo|34.03.09.2001|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"324|55891|Bendungan|34.03.09.2003|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"325|55891|Gedangrejo (Gedang Rejo)|34.03.09.2007|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"326|55891|Jatiayu (Jati Ayu)|34.03.09.2009|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"327|55891|Karangmojo|34.03.09.2006|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"328|55891|Kelor|34.03.09.2004|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"329|55891|Ngawis|34.03.09.2008|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"330|55891|Ngipak|34.03.09.2005|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"331|55891|Wiladeg|34.03.09.2002|Karangmojo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"332|55672|Banjararum|34.01.12.2001|Kalibawang|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"333|55672|Banjarasri|34.01.12.2002|Kalibawang|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"334|55672|Banjarharjo|34.01.12.2003|Kalibawang|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"335|55672|Banjaroyo|34.01.12.2004|Kalibawang|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"336|55571|Purwomartani (Purwo Martani)|34.04.10.2001|Kalasan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"337|55571|Selomartani (Selo Martani)|34.04.10.2004|Kalasan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"338|55571|Tamanmartani (Taman Martani)|34.04.10.2003|Kalasan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"339|55571|Tirtomartani (Tirto Martani)|34.04.10.2002|Kalasan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"340|55231|Bumijo|34.71.02.1001|Jetis|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"341|55781|Canden|34.02.09.2002|Jetis|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"342|55233|Cokrodiningratan|34.71.02.1002|Jetis|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"343|55232|Gowongan|34.71.02.1003|Jetis|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"344|55781|Patalan|34.02.09.2001|Jetis|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"345|55781|Sumberagung (Sumber Agung)|34.02.09.2003|Jetis|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"346|55781|Trimulyo|34.02.09.2004|Jetis|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"347|55782|Girirejo|34.02.10.2006|Imogiri|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"348|55782|Imogiri|34.02.10.2008|Imogiri|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"349|55782|Karangtalun|34.02.10.2007|Imogiri|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"350|55782|Karangtengah (Karang Tengah)|34.02.10.2005|Imogiri|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"351|55782|Kebonagung (Kebon Agung)|34.02.10.2004|Imogiri|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"352|55782|Selopamioro|34.02.10.2001|Imogiri|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"353|55782|Sriharjo|34.02.10.2002|Imogiri|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"354|55782|Wukirsari|34.02.10.2003|Imogiri|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"355|55122|Ngupasan|34.71.10.1001|Gondomanan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"356|55121|Prawirodirjan|34.71.10.1002|Gondomanan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"357|55225|Baciro|34.71.03.1004|Gondokusuman|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"358|55221|Demangan|34.71.03.1001|Gondokusuman|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"359|55222|Klitren|34.71.03.1003|Gondokusuman|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"360|55224|Kotabaru|34.71.03.1002|Gondokusuman|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"361|55223|Terban|34.71.03.1005|Gondokusuman|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"362|55264|Sidoagung|34.04.02.2004|Godean|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"363|55264|Sidoarum|34.04.02.2006|Godean|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"364|55264|Sidokarto|34.04.02.2005|Godean|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"365|55264|Sidoluhur|34.04.02.2002|Godean|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"366|55264|Sidomoyo|34.04.02.2007|Godean|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"367|55264|Sidomulyo|34.04.02.2003|Godean|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"368|55264|Sidorejo|34.04.02.2001|Godean|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"369|55883|Balong|34.03.16.2001|Girisubo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"370|55883|Jepitu|34.03.16.2002|Girisubo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"371|55883|Jerukwudel|34.03.16.2005|Girisubo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"372|55883|Karangawen|34.03.16.2003|Girisubo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"373|55883|Nglindur|34.03.16.2004|Girisubo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"374|55883|Pucung|34.03.16.2007|Girisubo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"375|55883|Songbanyu|34.03.16.2008|Girisubo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"376|55883|Tileng|34.03.16.2006|Girisubo|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"377|55674|Giripurwo|34.01.09.2002|Girimulyo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"378|55674|Jatimulyo|34.01.09.2001|Girimulyo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"379|55674|Pendoworejo|34.01.09.2003|Girimulyo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"380|55674|Purwosari|34.01.09.2004|Girimulyo|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"381|55272|Pringgokusuman|34.71.05.1002|Gedongtengen (Gedong Tengen)|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"382|55271|Sosromenduran|34.71.05.1001|Gedongtengen (Gedong Tengen)|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"383|55863|Hargomulyo (Hargo Mulyo)|34.03.14.2001|Gedangsari (Gedang Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"384|55863|Mertelu|34.03.14.2002|Gedangsari (Gedang Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"385|55863|Ngalang|34.03.14.2006|Gedangsari (Gedang Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"386|55863|Sampang|34.03.14.2004|Gedangsari (Gedang Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"387|55863|Serut|34.03.14.2005|Gedangsari (Gedang Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"388|55863|Tegalrejo|34.03.14.2007|Gedangsari (Gedang Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"389|55863|Watugajah (Watu Gajah)|34.03.14.2003|Gedangsari (Gedang Sari)|Kabupaten|Gunung Kidul|DI Yogyakarta"}
+{"address":"390|55294|Ambarketawang|34.04.01.2002|Gamping|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"391|55295|Balecatur|34.04.01.2001|Gamping|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"392|55293|Banyuraden|34.04.01.2003|Gamping|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"393|55592|Nogotirto|34.04.01.2004|Gamping|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"394|55291|Trihanggo|34.04.01.2005|Gamping|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"395|55661|Banaran|34.01.04.2001|Galur|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"396|55661|Brosot|34.01.04.2007|Galur|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"397|55661|Karangsewu (Karang Sewu)|34.01.04.2004|Galur|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"398|55661|Kranggan|34.01.04.2002|Galur|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"399|55661|Nomporejo|34.01.04.2003|Galur|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"400|55661|Pandowan|34.01.04.2006|Galur|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"401|55661|Tirtorahayu (Tirta Rahayu)|34.01.04.2005|Galur|Kabupaten|Kulon Progo|DI Yogyakarta"}
+{"address":"402|55783|Dlingo|34.02.11.2003|Dlingo|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"403|55783|Jatimulyo|34.02.11.2006|Dlingo|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"404|55783|Mangunan|34.02.11.2001|Dlingo|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"405|55783|Muntuk|34.02.11.2002|Dlingo|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"406|55783|Temuwuh|34.02.11.2004|Dlingo|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"407|55783|Terong|34.02.11.2005|Dlingo|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"408|55281|Caturtunggal (Catur Tunggal)|34.04.07.2001|Depok|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"409|55283|Condongcatur (Condong Catur)|34.04.07.2003|Depok|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"410|55282|Maguwoharjo|34.04.07.2002|Depok|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"411|55211|Bausasran|34.71.04.1003|Danurejan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"412|55213|Suryatmajan|34.71.04.1001|Danurejan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"413|55212|Tegalpanggung (Tegal Panggung)|34.71.04.1002|Danurejan|Kota|Yogyakarta|DI Yogyakarta"}
+{"address":"414|55583|Argomulyo (Argo Mulyo)|34.04.17.2001|Cangkringan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"415|55583|Glagaharjo (Glagah Harjo)|34.04.17.2003|Cangkringan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"416|55583|Kepuharjo (Kepuh Harjo)|34.04.17.2004|Cangkringan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"417|55583|Umbulharjo (Umbul Harjo)|34.04.17.2005|Cangkringan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"418|55583|Wukirsari (Wukir Sari)|34.04.17.2002|Cangkringan|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"419|55573|Jogotirto (Jogo Tirto)|34.04.08.2004|Berbah|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"420|55573|Kalitirto (Kali Tirto)|34.04.08.2003|Berbah|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"421|55573|Sendangtirto (Sendang Tirto)|34.04.08.2001|Berbah|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"422|55573|Tegaltirto (Tegal Tirto)|34.04.08.2002|Berbah|Kabupaten|Sleman|DI Yogyakarta"}
+{"address":"423|55711|Bantul|34.02.08.2003|Bantul|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"424|55713|Palbapang|34.02.08.2001|Bantul|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"425|55712|Ringinharjo (Ringin Harjo)|34.02.08.2002|Bantul|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"426|55715|Sabdodadi|34.02.08.2005|Bantul|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"427|55714|Trirenggo|34.02.08.2004|Bantul|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"428|55198|Banguntapan|34.02.12.2002|Banguntapan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"429|55197|Baturetno|34.02.12.2001|Banguntapan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"430|55192|Jagalan|34.02.12.2003|Banguntapan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"431|55195|Jambidan|34.02.12.2005|Banguntapan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"432|55196|Potorono|34.02.12.2006|Banguntapan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"433|55193|Singosaren|34.02.12.2004|Banguntapan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"434|55191|Tamanan|34.02.12.2007|Banguntapan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"435|55194|Wirokerten|34.02.12.2008|Banguntapan|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"436|55764|Mulyodadi|34.02.05.2002|Bambanglipuro (Bambang Lipuro)|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"437|55764|Sidomulyo|34.02.05.2001|Bambanglipuro (Bambang Lipuro)|Kabupaten|Bantul|DI Yogyakarta"}
+{"address":"438|55764|Sumbermulyo|34.02.05.2003|Bambanglipuro (Bambang Lipuro)|Kabupaten|Bantul|DI Yogyakarta"}
